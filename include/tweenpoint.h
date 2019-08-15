@@ -77,6 +77,6 @@ namespace tweeny {
     }
 }
 
-#include "tweenpoint.tcc"
+#include "tweenpoint.cpp"
 
 #endif //TWEENY_TWEENPOINT_H

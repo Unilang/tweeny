@@ -98,6 +98,6 @@ namespace tweeny {
     template<typename... Ts> tween<Ts...> from(Ts... vs);
 }
 
-#include "tweeny.tcc"
+#include "tweeny.cpp"
 
 #endif //TWEENY_TWEENY_H

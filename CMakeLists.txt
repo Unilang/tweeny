@@ -78,12 +78,12 @@ endif()
 # This library is a convenience library to force files appear in the IDE properly.
 add_library(tweeny-dummy
         include/tweeny.h
-        include/tweeny.tcc
+        include/tweeny.cpp
         include/tween.h
-        include/tween.tcc
-        include/tweenone.tcc
+        include/tween.cpp
+        include/tweenone.cpp
         include/tweenpoint.h
-        include/tweenpoint.tcc
+        include/tweenpoint.cpp
         include/tweentraits.h
         include/easing.h
         include/easingresolve.h

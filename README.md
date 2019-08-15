@@ -70,7 +70,7 @@ Tweeny is open-source, meaning that it is open to modifications and contrubution
 - Use `camelCase`, but try to avoid multi word names as hard as possible
 - Document code using Doxygen
 - Implementation details should go inside `tweeny::detail` namespace.
-- Template implementations should go into a `.tcc` file
+- Template implementations should go into a `.cpp` file
 
 ## Examples:
 

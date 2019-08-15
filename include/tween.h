@@ -592,7 +592,7 @@ namespace tweeny {
     };
 }
 
-#include "tween.tcc"
-#include "tweenone.tcc"
+#include "tween.cpp"
+#include "tweenone.cpp"
 
 #endif //TWEENY_TWEEN_H
